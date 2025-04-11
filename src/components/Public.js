@@ -15,7 +15,8 @@ const Public = () => {
                     <a href="tel:+15555555555">(555) 555-5555</a>
                 </address>
                 <br />
-                <p>Owner: Dan Davidson</p>
+                <p>Owner: Dan Davidson</p><br />
+                <p>(Everyone credentials: username: Leslie, passw: juanca123)</p>
             </main>
             <footer>
                 <Link to="/login">Employee Login</Link>
